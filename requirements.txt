@@ -1,0 +1,9 @@
+#os
+#sys
+#glob
+#typing
+#logging
+
+docopt==0.6.2
+huggingface-hub==0.1.2
+transformers==4.12.3
